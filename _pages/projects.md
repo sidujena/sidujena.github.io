@@ -17,7 +17,8 @@ Gene regulation is a deeply complex process that involves interplay between cell
     <img src="https://sidujena.github.io/assets/img/chromatinfig.png" alt="image" width="50%" height="auto">
     <img src="https://sidujena.github.io/assets/img/chromdata.png" alt="image" width="50%" height="auto">
 </div>
-
+<br>
+<br>
 
 Previous work
 ======
