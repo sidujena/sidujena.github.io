@@ -26,7 +26,9 @@ In my PhD, I primarily focused on the recently discovered phenomenon of Erk sign
 
 My undergrad thesis, completed under the mentorship of Martin Karplus, was focused on using molecular dynamics to simulate the effect of membrane lipid composition on the behavior of embedded proteins. I also studied models of protocellular membrane evolution with Jack Szostak [(Lin\*, Kamat\* et. al. 2018)](https://onlinelibrary.wiley.com/doi/10.1002/smll.201704077).
 
-<img src="https://sidujena.github.io/assets/img/fly.png" alt="image" width="50%" height="auto", class="center">
+<div class="row">
+    <img src="https://sidujena.github.io/assets/img/fly.png" alt="image" width="50%" height="auto">
+</div>
 <br>
 <br>
 
