@@ -13,8 +13,8 @@ Design principles of gene regulation
 ======
 Gene regulation is a deeply complex process that involves interplay between cellular signaling pathways and the epigenetic landscape. Understanding the fundamental biology that governs this process can tell us where we came from and how we came to be, both as individuals and as a species. Perturbing and engineering gene regulation, on the other hand, can allow us to control our fates: we can shift cell behavior and even mitigate or prevent disease. **To this end, my work broadly focuses on teasing apart the organizational rules that govern gene regulation**. I focus on chromatin structure, which forms an interface between environmental signals and the transcriptional responses to these signals. I use a diverse set of experimental approaches, including (but not limited to) live cell imaging, cellular optogenetics, single-molecule and single-cell transcriptomics, and epigenomic profiling.
 
-![image](sidujena.github.io/img/chromatinfig.png)
-![image](sidujena.github.io/img/chromdata.png)
+![image](https://sidujena.github.io/img/chromatinfig.png)
+![image](https://sidujena.github.io/img/chromdata.png)
 
 Previous work
 ======
