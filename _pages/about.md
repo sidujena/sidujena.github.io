@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: scientist
+subtitle: cell biologist, biophysicist, bioengineer
 
 profile:
   align: right
