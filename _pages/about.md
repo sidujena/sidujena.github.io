@@ -6,7 +6,7 @@ subtitle: cell biologist, biophysicist, bioengineer
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profpic2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Bauer 208</p>
