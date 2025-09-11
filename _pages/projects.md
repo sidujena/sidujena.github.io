@@ -23,7 +23,7 @@ Diverse organisms are capable of surviving at extreme temperatures; however, the
 
 Postdoctoral work
 ======
-In my postdoctoral work, I explored how mesoscale chromatin organization can be encoded in <i>histone proteins</i>, which form nucleosomes, the building blocks of chromatin. Using deep mutational scanning, microscopy, and genomics, I discovered that even single amino acid changes in histones can dramatically reshape nuclear organization and transcription. I trained computational models to predict these effects from data, and used them to design synthetic histones that drive targeted epigenetic states [(Jena et. al. 2025)](). This work positions chromatin not just as a structural framework or readout of cell identity, but as an engineerable scaffold for driving new cellular functions.
+In my postdoctoral work, I explored how mesoscale chromatin organization can be encoded in <i>histone proteins</i>, which form nucleosomes, the building blocks of chromatin. Using deep mutational scanning, microscopy, and genomics, I discovered that even single amino acid changes in histones can dramatically reshape nuclear organization and transcription. I trained computational models to predict these effects from data, and used them to design synthetic histones that drive targeted epigenetic states [(Jena et. al. 2025)](https://www.biorxiv.org/content/10.1101/2025.09.10.674980v1). This work positions chromatin not just as a structural framework or readout of cell identity, but as an engineerable scaffold for driving new cellular functions.
 
 <div class="row">
     <img src="https://sidujena.github.io/assets/img/postdocpic.png" alt="image" width="100%" height="auto">

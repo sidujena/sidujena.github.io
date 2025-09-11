@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 Selected publications:
-1. **Jena S.G.**, Nagaraja S, Earl A.S., Driller-Colangelo A.R., Quezada M.A., Oreskovic E., Horlbeck M.A., Zhang R., Gomarga W., Buenrostro J.D. [Engineered histones reshape chromatin in human cells.]() bioRxiv 2025.
+1. **Jena S.G.**, Nagaraja S, Earl A.S., Driller-Colangelo A.R., Quezada M.A., Oreskovic E., Horlbeck M.A., Zhang R., Gomarga W., Buenrostro J.D. [Engineered histones reshape chromatin in human cells.](https://www.biorxiv.org/content/10.1101/2025.09.10.674980v1) bioRxiv 2025.
 2. Verma A.\*, **Jena S.G.\***, Isakov D.R., Aoki K., Toettcher J.E., Engelhardt B.E. [A self-exciting point 
 process to study multi-cellular spatial signaling patterns.](https://www.pnas.org/doi/10.1073/pnas.2026123118) PNAS 118 (32) (2021).
 3. **Jena S.G.**, Yu C., Toettcher J.E. [Dynamics and heterogeneity of Erk-induced immediate-early gene 
