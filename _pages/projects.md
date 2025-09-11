@@ -9,16 +9,28 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-Design principles of gene regulation
+Exploring and engineering resilient genomes for advanced animal and plant engineering
 ======
-Gene regulation is a deeply complex process that involves interplay between cellular signaling pathways and the epigenetic landscape. Understanding the fundamental biology that governs this process can tell us where we came from and how we came to be, both as individuals and as a species. Perturbing and engineering gene regulation, on the other hand, can allow us to control our fates: we can shift cell behavior and even mitigate or prevent disease. **To this end, my work broadly focuses on teasing apart the organizational rules that govern gene regulation**. I focus on chromatin structure, which forms an interface between environmental signals and the transcriptional responses to these signals. I use a diverse set of experimental approaches, including (but not limited to) live cell imaging, cellular optogenetics, single-molecule and single-cell transcriptomics, and epigenomic profiling.
+Diverse organisms are capable of surviving at extreme temperatures; however, the mechanisms that underlie the response and resiliency of the genome to these harsh conditions are poorly understood. A complete understanding of the molecular components of these mechanisms and how they have evolved to achieve their specialized functions would allow us to engineer chromatin to operate in extreme environments. I will leverage my expertise at the interface of evolution, synthetic biology, and environmental physiology to define the molecular underpinnings of this “genomic resilience”. Using a platform for the systematic, high-throughput functional, spatial, and genomic characterization of chromatin-associated proteins developed in my postdoctoral work, **I will systematically define the design rules for resilient genomes, map how these rules have evolved and diversified over time, and use these insights, combined with computational protein design, to create novel protein components that can be used to bolster resilience in human and plant cells.** This work will drive forward our understanding of molecular evolution, unveil fundamental physical mechanisms underlying genome organization, and inform the design and engineering of genomes for a broad range of cellular applications, including cryotherapies, tissue preservation, and environmentally resilient plants.
+
 
 <div class="row">
-    <img src="https://sidujena.github.io/assets/img/chromatinfig.png" alt="image" width="50%" height="auto">
-    <img src="https://sidujena.github.io/assets/img/chromdata.png" alt="image" width="50%" height="auto">
+    <img src="https://sidujena.github.io/assets/img/aims.png" alt="image" width="50%" height="auto">
 </div>
 <br>
 <br>
+
+
+Postdoctoral work
+======
+In my postdoctoral work, I explored how mesoscale chromatin organization can be encoded in <i>histone proteins</i>, which form nucleosomes, the building blocks of chromatin. Using deep mutational scanning, microscopy, and genomics, I discovered that even single amino acid changes in histones can dramatically reshape nuclear organization and transcription. I trained computational models to predict these effects from data, and used them to design synthetic histones that drive targeted epigenetic states [(Jena et. al. 2025)](). This work positions chromatin not just as a structural framework or readout of cell identity, but as an engineerable scaffold for driving new cellular functions.
+
+<div class="row">
+    <img src="https://sidujena.github.io/assets/img/postdocpic.png" alt="image" width="100%" height="auto">
+</div>
+<br>
+<br>
+
 
 Previous work
 ======
