@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 Selected publications:
-1. **Jena S.G.**, Nagaraja S, Earl A.S., Driller-Colangelo A.R., Quezada M.A., Oreskovic E., Horlbeck M.A., Zhang R., Gomarga W., Buenrostro J.D. [Engineered histones reshape chromatin in human cells.](https://www.biorxiv.org/content/10.1101/2025.09.10.674980v1) bioRxiv 2025.
+1. **Jena S.G.**, Nagaraja S, Earl A.S., Driller-Colangelo A.R., Quezada M.A., Oreskovic E., Horlbeck M.A., Zhang R., Gomarga W., Buenrostro J.D. [Engineered histones reshape chromatin in human cells.](https://www.biorxiv.org/content/10.1101/2025.09.10.674980v1) bioRxiv 2025, _in revision_
 2. Verma A.\*, **Jena S.G.\***, Isakov D.R., Aoki K., Toettcher J.E., Engelhardt B.E. [A self-exciting point 
 process to study multi-cellular spatial signaling patterns.](https://www.pnas.org/doi/10.1073/pnas.2026123118) PNAS 118 (32) (2021).
 3. **Jena S.G.**, Yu C., Toettcher J.E. [Dynamics and heterogeneity of Erk-induced immediate-early gene 
@@ -22,10 +22,10 @@ Reviews:
 2. **Jena S.G.**, Toettcher J.E. [The role of timing in biological perception and actuation.](https://iopscience.iop.org/article/10.1088/1478-3975/abde8d) Phys. Biol. (2021)
 
 Other publications:
-1. Lu Y.R., Cameron J.C., Hu. Y., ..., **Jena S.G.**, ..., Ksander B.R., Weissman J.S. [Reprogramming Factors Activate a Non-Canonical Oxidative Resilience Pathway That Can Rejuvenate RPEs and Restore Vision](https://www.biorxiv.org/content/10.1101/2025.08.30.673239v1) bioRxiv 2025.
-2. Shang Y., Cho W.J., Munj S.A., **Jena S.G.**, Arslanturk S., Patil S.R., Qi X., Jena B.P. [Mechanism of clinically relevant neurosecretory and metabolic impairment in Alzheimers and identification of engineered nanotherapy](https://www.biorxiv.org/content/10.1101/2025.04.09.647859v1) bioRxiv 2025.
-3. Verma A., Yu, C., Bachl, S.,..., **Jena S.G.**, Marson A., Carnevale J., Van Valen D., Engelhardt B.E. [Cellular behavior analysis from live-cell imaging of TCR T cell–cancer cell interactions](https://www.biorxiv.org/content/10.1101/2024.11.19.624390v1) bioRxiv 2024.
-4. Payzin-Dogru D., Blair S.J\*., **Jena S.G.\***, ..., Buenrostro J.D., Haas B.J., Chiu I.M., Sackton T.B., Whited J.L. [Peripheral nervous system mediates body-wide stem cell activation for limb regeneration](https://www.biorxiv.org/content/10.1101/2021.12.29.474455v3) bioRxiv 2024.
+1. Lu Y.R., Cameron J.C., Hu. Y., ..., **Jena S.G.**, ..., Ksander B.R., Weissman J.S. [Reprogramming Factors Activate a Non-Canonical Oxidative Resilience Pathway That Can Rejuvenate RPEs and Restore Vision](https://www.biorxiv.org/content/10.1101/2025.08.30.673239v1) bioRxiv 2025, _in revision_
+2. Shang Y., Cho W.J., Munj S.A., **Jena S.G.**, Arslanturk S., Patil S.R., Qi X., Jena B.P. [Mechanism of clinically relevant neurosecretory and metabolic impairment in Alzheimers and identification of engineered nanotherapy](https://www.biorxiv.org/content/10.1101/2025.04.09.647859v1) bioRxiv 2025, _in revision_
+3. Verma A., Yu, C., Bachl, S.,..., **Jena S.G.**, Marson A., Carnevale J., Van Valen D., Engelhardt B.E. [Cellular behavior analysis from live-cell imaging of TCR T cell–cancer cell interactions](https://www.biorxiv.org/content/10.1101/2024.11.19.624390v1) bioRxiv 2024, _in revision_
+4. Payzin-Dogru D., Blair S.J\*., **Jena S.G.\***, ..., Buenrostro J.D., Haas B.J., Chiu I.M., Sackton T.B., Whited J.L. [Adrenergic signaling coordinates distant and local responses to amputation in axolotl](https://www.cell.com/cell/fulltext/S0092-8674(25)01125-0) Cell 2025.
 5. Avadhanam P.\*, **Jena S.G.\*** [Restricted Positional Games](https://arxiv.org/abs/2108.12839). arXiv:2108.12839. 2021.
 6. Ravindran P.T., Wilson M.Z., **Jena S.G.**, Toettcher J.E. [Engineering combinatorial and dynamic 
 decoders using synthetic immediate-early genes.](https://www.nature.com/articles/s42003-020-01171-1) Comms. Biol. 2020.
