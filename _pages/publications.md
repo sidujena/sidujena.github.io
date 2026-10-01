@@ -14,6 +14,9 @@ process to study multi-cellular spatial signaling patterns.](https://www.pnas.or
 3. Keller S.H.\*, **Jena S.G.\***, Yamazaki Y., Lim B. [Regulation of spatiotemporal limits of developmental 
 gene expression via enhancer grammar.](https://www.pnas.org/doi/abs/10.1073/pnas.1917040117) PNAS 117 (26) 15096-15103 (2020).
 
+Working papers:
+1. **Jena S.G.** [Nucleosome simulations suggest mechanisms of electrostatically-driven mesoscale chromatin evolution.](https://arxiv.org/abs/2609.24907) arXiv 2026.
+
 Reviews:
 1. **Jena S.G.\***, Verma A.\*, Engelhardt B.E. [Answering open questions in biology using spatial genomics and structured methods.](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05912-5). BMC Bioinformatics 2024.
 2. **Jena S.G.\***, Goglia A.G.\*, Engelhardt B.E. [Towards ‘end-to-end’ analysis and understanding of biological timecourse data](https://portlandpress.com/biochemj/article/479/11/1257/231434/Towards-end-to-end-analysis-and-understanding-of). Biochem J (2022) 479 (11): 1257–1263.
