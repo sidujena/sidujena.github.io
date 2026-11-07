@@ -8,14 +8,13 @@ nav_order: 3
 ---
 
 Selected publications:
-1. **Jena S.G.**, Nagaraja S, Earl A.S., Driller-Colangelo A.R., Quezada M.A., Oreskovic E., Horlbeck M.A., Zhang R., Gomarga W., Buenrostro J.D. [Engineered histones reshape chromatin in human cells.](https://www.biorxiv.org/content/10.1101/2025.09.10.674980v1) bioRxiv 2025, _in revision_
-2. Verma A.\*, **Jena S.G.\***, Isakov D.R., Aoki K., Toettcher J.E., Engelhardt B.E. [A self-exciting point 
+1. **Jena S.G.**, Nagaraja S, Earl A.S., Driller-Colangelo A.R., Quezada M.A., Oreskovic E., Horlbeck M.A., Zhang R., Gomarga W., Buenrostro J.D. [Engineered histones reshape chromatin in human cells.](https://www.biorxiv.org/content/10.1101/2025.09.10.674980v1) bioRxiv 2025, _in revision, Cell_
+2. **Jena S.G.** [Nucleosome simulations suggest mechanisms of electrostatically-driven mesoscale chromatin evolution.](https://arxiv.org/abs/2609.24907) arXiv 2026. (working paper)
+3. Rivera-Lopez C.F., Nosella M.L., **Jena S.G.**, Bump P., Duncan E., Buenrostro J.D., Luger K., Srivastava M. [An expanded evolutionary landscape of H3 histones with variants that destabilize nucleosomes and promote chromatin accessibility.](https://www.biorxiv.org/content/10.64898/2026.11.04.764309v1) bioRxiv 2026.
+4. Verma A.\*, **Jena S.G.\***, Isakov D.R., Aoki K., Toettcher J.E., Engelhardt B.E. [A self-exciting point 
 process to study multi-cellular spatial signaling patterns.](https://www.pnas.org/doi/10.1073/pnas.2026123118) PNAS 118 (32) (2021).
-3. Keller S.H.\*, **Jena S.G.\***, Yamazaki Y., Lim B. [Regulation of spatiotemporal limits of developmental 
+5. Keller S.H.\*, **Jena S.G.\***, Yamazaki Y., Lim B. [Regulation of spatiotemporal limits of developmental 
 gene expression via enhancer grammar.](https://www.pnas.org/doi/abs/10.1073/pnas.1917040117) PNAS 117 (26) 15096-15103 (2020).
-
-Working papers:
-1. **Jena S.G.** [Nucleosome simulations suggest mechanisms of electrostatically-driven mesoscale chromatin evolution.](https://arxiv.org/abs/2609.24907) arXiv 2026.
 
 Reviews:
 1. **Jena S.G.\***, Verma A.\*, Engelhardt B.E. [Answering open questions in biology using spatial genomics and structured methods.](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05912-5). BMC Bioinformatics 2024.
